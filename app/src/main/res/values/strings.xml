@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scripture Saver</string>
+    <string name="header_pg1">Please enter your favorite scripture.</string>
+    <string name="send">Send</string>
+    <string name="verse_hint">Enter Verse(s)</string>
+    <string name="chapter_hint">Enter Chapter Number</string>
+    <string name="book_hint">Enter Book</string>
+    <string name="save_scripture">Save Scripture</string>
+    <string name="load_scripture">Load Scripture</string>
+</resources>
